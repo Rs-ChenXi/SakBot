@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lsky.saklit.com/i/2026/06/23/6a39f03ae0d66.png" alt="SakBot" width="120" />
+  <img src="[https://lsky.saklit.com/i/2026/06/23/6a39f03ae0d66.png](https://raw.githubusercontent.com/Rs-ChenXi/SakBot/main/Logo.png)" alt="SakBot" width="120" />
   <h1 align="center">SakBot</h1>
   <p align="center">
     基于 .NET 10 构建的 QQ 机器人 Web 管理面板
